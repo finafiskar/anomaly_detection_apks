@@ -1,0 +1,22 @@
+Analyze App with privacy perpective
+
+* Any means neccessary
+
+Problems:
+* Permissions are not detailed
+* Raising awareness of privacy in apps
+* 
+
+Exodous privacy
+- Look at manifest
+- Look at DEX file for classes, class name and class path
+- Do not look for individual calls
+
+Docker ID: 84565a3a4786
+
+https://download.apkpure.com/b/apk/Y29tLnRlbGlhc29uZXJhLmNpcy50cHNfMjAwNV83NTVmMWFjZQ?_fn=TWluYSBmb3Jkb25fdjEuMTFfYXBrcHVyZS5jb20uYXBr&k=6c91f70d2379ccca74d7390c083c28e85ce04ec4&as=ae272a55f0a408cc22a6b52ce75e3f415cddac3c&_p=Y29tLnRlbGlhc29uZXJhLmNpcy50cHM&c=1%7CMAPS_AND_NAVIGATION%7CZGV2PVRyYW5zcG9ydHN0eXJlbHNlbiZ0PWFwayZ2bj0xLjExJnZjPTIwMDU
+
+
+Slack:
+0xff.se/slack
+magnus@0xff.se
